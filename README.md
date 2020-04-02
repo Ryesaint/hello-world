@@ -1,4 +1,4 @@
 # hello-world
 General ideas and discussions.
 
-Howdy world! my name is ryan and im excited to learn how to code to givemyself a future!
+Howdy world! my name is Ryan and im excited about learning how to code to give myself a future!
